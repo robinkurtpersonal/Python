@@ -17,5 +17,8 @@ some of the stuff I've been practicing over the break and onwards. Feel free to 
 ## Print Function Related
 - Basic_Program_Hello_World
 
+## The Copy Machine
+- The_Copy_Machine (variables, inputs, print function, len function)
+
 
 for any questions / clarifications, email me -> robinkurtpublic@gmail.com
