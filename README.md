@@ -2,25 +2,3 @@
 some of the stuff I've been practicing over the break and onwards. Feel free to view my progress.
 
 
-
-# Basic Program List
-
-## Arithmetic Operations
-- Basic_Program_Addition
-- Basic_Program_Subtraction
-- Basic_Program_Multiplication
-- Basic_Program_Division
-- Basic_Program_Division_Int
-- Basic_Program_Power
-- Basic_Program_Calculator
-## String Functions
-- Basic_Program_Len
-
-## Print Function Related
-- Basic_Program_Hello_World
-
-## Python CheatSheets
-- Cheatsheet 1 (variables, inputs, print function, len function)
-
-
-for any questions / clarifications, email me -> robinkurtpublic@gmail.com
