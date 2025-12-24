@@ -1,4 +1,7 @@
 #print function
+print("Robin's_Python_CheatSheet_1")
+print("Version: V1.0.0 | 12/24/2025 2:50 A.M. | Lifted from Obsidian")
+
 print("Piece of Text"")
 print("Piece of Text" + " Another Piece of Text")
 VarPOT = "Text"
