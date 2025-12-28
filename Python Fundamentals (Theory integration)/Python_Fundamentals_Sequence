@@ -1,0 +1,21 @@
+print("Name: Python_Fundamentals_Sequence ")
+print("Decription: A simple demonstration of sequencing for Python.")
+
+variable1 = 2
+
+#sequence I
+#Take 2 
+#Add 3
+#Multiply by 5
+
+sI_1 = variable1 + 3
+sI_2 = sI_1 * 5
+print(sI_2)
+
+#sequence II
+#Take 2 
+#Multiply by 5
+#Add 3
+sII_1 = variable1 * 5
+sII_2 = sII_1 + 3
+print(sII_2)
