@@ -9,6 +9,7 @@ this repository is currently very verys small!, I did a lot of reorganizing from
 - Fun and Misc.
 
 Some of the tools I use:
+
 **GitHub** - Yep lol.
 
 **Python IDE / Python itself** - https://www.python.org/downloads/
