@@ -10,7 +10,9 @@ this repository is currently very verys small!, I did a lot of reorganizing from
 
 Some of the tools I use:
 **GitHub** - Yep lol.
+
 **Python IDE / Python itself** - https://www.python.org/downloads/
+
 **Python Tracer** - https://pythontutor.com/visualize.html
 
 
