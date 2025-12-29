@@ -6,4 +6,4 @@ Int_2 = int(input("Enter your second integer: "))
 
 Sum = Int_1 + Int_2
 
-print(f"The total sum of your two integers is {Sum}")
+print(f"The total sum of your two integers is {Sum}.")
