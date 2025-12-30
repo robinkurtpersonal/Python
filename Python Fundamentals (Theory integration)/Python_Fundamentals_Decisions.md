@@ -1,8 +1,11 @@
 **if statement: template**
 
 if (condition1):
+
       instruction_1
+      
       instruction_2
+
 instruction_outside_if
 
 **if else statement: template**
