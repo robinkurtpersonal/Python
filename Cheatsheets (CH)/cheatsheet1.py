@@ -110,6 +110,19 @@ print(len("Robin"))
 print("hello"[0])
 print("hello"[-1])
 
+#substring
+name = "Robin Kurt"
+print(name[0:5]) # r o b i n
+print(name[:]) # full
+print(name[0:]) #everything starting from 0
+print(name[:11]) #will print everything before 11
+
+print(name[-4:])
+
+#string case
+print("robin".upper())
+print("robin".lower())
+print("robin".capitalize())
 
 
 
