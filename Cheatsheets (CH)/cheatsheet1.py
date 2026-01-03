@@ -95,7 +95,13 @@ variable = int(input("Enter integer: "))
 #float input function
 variable = float(input("Enter float: "))
 
-
+#strings
+name = "Robin"
+name2 = "Kurt"
+#concatenation
+print(name + " " + name2) 
+#repetition
+print(name*2)
 
 
 
