@@ -80,3 +80,8 @@ print(float(10))
 #float convert
 print(str(10.0))
 print(int(10.0))
+
+#input function
+#default: str
+variable = input("Enter: ")
+
