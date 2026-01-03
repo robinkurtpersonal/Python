@@ -103,5 +103,7 @@ print(name + " " + name2)
 #repetition
 print(name*2)
 
+#len() function for strings - number of characters
+print(len("Robin"))
 
 
