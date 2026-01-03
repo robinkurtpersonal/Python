@@ -85,3 +85,6 @@ print(int(10.0))
 #default: str
 variable = input("Enter: ")
 
+#int input function
+variable = int(input("Enter integer: "))
+
