@@ -8,6 +8,10 @@ print("Hello!","World!")
 #concatenation for strings
 print("Hello"+" "+"World")
 
+#sample f-string
+variable = "World!"
+print(f"Hello {variable}")
+
 #variables
 num = 2 # int == integer
 dec = 2.0 # float == decimal (floating point number)
@@ -90,6 +94,8 @@ variable = int(input("Enter integer: "))
 
 #float input function
 variable = float(input("Enter float: "))
+
+
 
 
 
