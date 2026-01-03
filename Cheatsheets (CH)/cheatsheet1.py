@@ -106,4 +106,10 @@ print(name*2)
 #len() function for strings - number of characters
 print(len("Robin"))
 
+#indexing strings
+print("hello"[0])
+print("hello"[-1])
+
+
+
 
