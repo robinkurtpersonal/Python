@@ -50,3 +50,33 @@ print(10//5)
 print(3**2)
 #remainder %
 print(10%3)
+
+#operations between a float and a integer == always returns a float
+print(1*1.0)
+
+variable_test = "1"
+print(float(variable_test))
+print(int(variable_test))
+
+
+print(1+6/2*2**3)
+#for this one
+#power -> division -> multiplication -> addition
+
+#converting datatypes
+
+#string int convert
+print(int("10"))
+print(float("10"))
+
+#string float convert
+print(int("10.0")) #error
+print(float("10.0")) 
+
+#int convert
+print(str(10))
+print(float(10))
+
+#float convert
+print(str(10.0))
+print(int(10.0))
