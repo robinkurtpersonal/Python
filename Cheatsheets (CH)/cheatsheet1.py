@@ -30,4 +30,23 @@ Variable = "a"
 variable = "b"
 # These are different
 
-#Numberic Expressions
+#Numeric Expressions
+#Classic Arithmetic Operations
+
+#addition +
+print(1+1)
+#subtraction -
+print(1-1)
+#multiplication *
+print(1*5)
+#division (decimal/float) /
+print(10/5)
+#division (integer) //
+print(10//5)
+
+#other arithmetic operations
+
+#power ** (base - exponent)
+print(3**2)
+#remainder %
+print(10%3)
