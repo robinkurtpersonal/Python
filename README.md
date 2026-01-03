@@ -16,4 +16,5 @@ Some of the tools I use:
 
 **Python Tracer** - https://pythontutor.com/visualize.html
 
+**Obsidian** - I try to keep track offline versions of my progress using this application. - https://obsidian.md/
 
