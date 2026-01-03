@@ -88,3 +88,8 @@ variable = input("Enter: ")
 #int input function
 variable = int(input("Enter integer: "))
 
+#float input function
+variable = float(input("Enter float: "))
+
+
+
