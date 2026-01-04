@@ -1,0 +1,7 @@
+print("Name: ")
+print("Description: ")
+
+#body of the program
+
+
+print("Copyright RKCA 2025")
