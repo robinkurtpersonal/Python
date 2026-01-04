@@ -1,0 +1,13 @@
+print("Name: Range Manager for Strings")
+print("Purpose: enter a range to select a substring")
+string = input("Enter string: ")
+
+#substring variables
+#position where substring starts
+substring_start = int(input("Enter start index: ")) 
+
+#position after where substring ends 
+substring_end = int(input("Enter end index: "))
+
+#format print(variable[start:stop])
+print(string[substring_start:substring_end])
