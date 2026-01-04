@@ -25,3 +25,24 @@ ins_outside
 - if True | Else = NO
 - if False | Else = YES
 - ins_outside always executed
+
+
+if if else
+if (condition1):
+  ins_1
+  ins_2
+if (condition2):
+  ins_1
+  ins_2
+else:
+  ins_1
+  ins_2
+
+## notes
+- this is an if if else condition
+- with if if, consider that the 2nd check always is tested for regardless if 1 is True/False
+- as for the else, else can only executed when the 2nd if equates to False
+- with multiple if, it just means multiple checks
+- once you follow it up with else, its auto for when the if before it is false
+- if its with elif, same only when if before it is false.
+- careful with this
