@@ -1,4 +1,4 @@
 print("AO_Operator_Precedence_Rules")
 
-print(5+7*9/3+(10+10**2)
+print(5+7*9/3+(10+10**2))
 #the order is: parenthesis -> exponent -> multiplication -> division -> addition -> subtraction
