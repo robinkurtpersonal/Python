@@ -1,7 +1,9 @@
 # if (do / skip)
 if (condition):
   ins_1
+  
   ins_2
+
 ins_outside
 
 ## notes
@@ -11,11 +13,17 @@ ins_outside
 
 # if else (do / auto)
 if (condition):
+
   ins_1
+  
   ins_2
+
 else:
+
   ins_1
+  
   ins_2
+
 ins_outside
 
 ## notes
