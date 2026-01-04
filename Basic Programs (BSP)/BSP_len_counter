@@ -1,3 +1,7 @@
+#input function | type: str
 string = input("What is your string: ")
-print(f"Your string is {string} and it has a total of {len(string)}")
+
+#print (f-string) | {string} and {len(string)}
+#example enter hello then string = 5
+print(f"Your string is {string} and it has a total of {len(string)} characters")
 print("Program Finished")
