@@ -1,0 +1,17 @@
+print("Name: Positive or Negative")
+print("Description: Informs the user if the int he/she entered was positive or negative")
+
+#input function | type: int | integer
+integer = int(input("Enter integer: "))
+
+#conditions = only one can executed
+
+#cond 1 | int > 0
+if integer > 0:
+    print("Positive")
+#cond 2 | int < 0
+elif integer < 0:
+    print("Negative")
+#eliminated the fact that >0 and <0 so It can only be 0 itself
+else:
+    print("It is zero")
