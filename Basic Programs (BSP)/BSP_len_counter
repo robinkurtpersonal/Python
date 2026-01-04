@@ -1,0 +1,3 @@
+string = input("What is your string: ")
+print(f"Your string is {string} and it has a total of {len(string)}")
+print("Program Finished")
