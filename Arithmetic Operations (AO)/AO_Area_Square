@@ -1,0 +1,12 @@
+
+print("Name: Area of a Square Solver")
+print("Description: Solves the area of the square")
+
+#input function | type: float | variable is named as side
+side = float(input("Enter a side of your square: "))
+
+#formula to get area of square | variable named as area
+area = side ** 2
+
+#print function | f-string | {area}
+print(f"The total area of your square is {area}")
