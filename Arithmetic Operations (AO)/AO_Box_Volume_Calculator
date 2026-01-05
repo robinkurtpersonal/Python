@@ -1,0 +1,8 @@
+print("Name: AO_Box_Volume_Calculator")
+
+x = int(input("Length: "))
+y = int(input("Height: "))
+z = int(input("Width: "))
+
+volume = x * y * z
+print(f"The volume of your box is {volume}")
